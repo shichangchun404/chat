@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "study for Socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shichangchun404/chat.git"
+  },
+  "author": "shichangchun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shichangchun404/chat/issues"
+  },
+  "homepage": "https://github.com/shichangchun404/chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
